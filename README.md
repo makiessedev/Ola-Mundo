@@ -1,2 +1,2 @@
 # Olá, Mundo!
- primeiroRepositorio criado com Git e GitHub
+ Primeiro Repositorio criado com Git e GitHub
